@@ -1,0 +1,63 @@
+{
+  "export_version": 3,
+  "packages": [
+    {
+      "Id": "7zip.7zip",
+      "Name": "7-Zip",
+      "Version": "25.01",
+      "Source": "winget",
+      "ManagerName": "Winget"
+    },
+    {
+      "Id": "BleachBit.BleachBit",
+      "Name": "BleachBit",
+      "Version": "5.0.2.3065",
+      "Source": "winget",
+      "ManagerName": "Winget"
+    },
+    {
+      "Id": "Brave.Brave",
+      "Name": "Brave",
+      "Version": "145.1.87.191",
+      "Source": "winget",
+      "ManagerName": "Winget"
+    },
+    {
+      "Id": "ImputNet.Helium",
+      "Name": "Helium",
+      "Version": "0.8.4.1",
+      "Source": "winget",
+      "ManagerName": "Winget"
+    },
+    {
+      "Id": "IridiumIO.CompactGUI",
+      "Name": "CompactGUI",
+      "Version": "v4.0.0-beta.6",
+      "Source": "winget",
+      "ManagerName": "Winget"
+    },
+    {
+      "Id": "LibreWolf.LibreWolf",
+      "Name": "LibreWolf",
+      "Version": "147.0.2-1",
+      "Source": "winget",
+      "ManagerName": "Winget"
+    },
+    {
+      "Id": "Notepad\u002B\u002B.Notepad\u002B\u002B",
+      "Name": "Notepad\u002B\u002B",
+      "Version": "8.9.1",
+      "Source": "winget",
+      "ManagerName": "Winget"
+    },
+    {
+      "Id": "WinDirStat.WinDirStat",
+      "Name": "WinDirStat",
+      "Version": "2.5.0",
+      "Source": "winget",
+      "ManagerName": "Winget"
+    }
+  ],
+  "incompatible_packages_info": "Incompatible packages cannot be installed from UniGetUI, either because they came from a local source (for example Local PC) or because the package manager was unavailable. Nevertheless, they have been listed here for logging purposes.",
+  "incompatible_packages": []
+}

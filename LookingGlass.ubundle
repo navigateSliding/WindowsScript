@@ -1,0 +1,21 @@
+{
+  "export_version": 3,
+  "packages": [
+    {
+      "Id": "VirtualDrivers.Virtual-Display-Driver",
+      "Name": "Virtual Display Driver",
+      "Version": "25.7.23",
+      "Source": "winget",
+      "ManagerName": "Winget"
+    },
+    {
+      "Id": "gnif.LookingGlass",
+      "Name": "Looking Glass",
+      "Version": "B7",
+      "Source": "winget",
+      "ManagerName": "Winget"
+    }
+  ],
+  "incompatible_packages_info": "Incompatible packages cannot be installed from UniGetUI, either because they came from a local source (for example Local PC) or because the package manager was unavailable. Nevertheless, they have been listed here for logging purposes.",
+  "incompatible_packages": []
+}
